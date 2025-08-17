@@ -1,0 +1,70 @@
+{
+  "factions": [
+    {
+      "name": "ULTRAMARINES",
+      "characters": [
+        {"id": "UM-1", "name": "Varro Tigurius", "status": "Unlocked", "rank": "Epic I (1★)", "level": "29 / 35", "abilities": "16 / 18", "priority": "A", "icon": "images/UM-1.png", "team_comp_advice": "Arena (vs. Summons), Guild Raids (Psychic Weakness), Elite Campaigns", "positioning_advice": "Backline, protected by tanks. Use his active ability to clear summons or debuff bosses.", "description": "Strong Psyker, good for specific Guild Raids"},
+        {"id": "UM-2", "name": "Marneus Calgar", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "S", "icon": "images/UM-2.png", "team_comp_advice": "Arena (general), Guild Raids (Physical Weakness), Elite Campaigns", "positioning_advice": "Frontline tank, can absorb damage and counter-attack. Position to protect squishier units.", "description": "Top-tier, meta-defining, high priority"},
+        {"id": "UM-3", "name": "Bellator", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "A", "icon": "images/UM-3.png", "team_comp_advice": "Guild Raids (Summon-heavy), Salvage Runs, Campaign", "positioning_advice": "Mid-line, allow summons to tank. Position to maximize summon reach.", "description": "Strong summoner, good for Guild Raids and general utility"},
+        {"id": "UM-4", "name": "Certus", "status": "Unlocked", "rank": "Epic I (1★)", "level": "29 / 35", "abilities": "14 / 15", "priority": "B", "icon": "images/UM-4.png", "team_comp_advice": "Early Arena, Campaign", "positioning_advice": "Backline ranged DPS. Keep him safe from melee threats.", "description": "Decent ranged, but other options are higher priority"},
+        {"id": "UM-5", "name": "Incisus", "status": "Unlocked", "rank": "Silver II (4★)", "level": "35 / 35", "abilities": "26 / 26", "priority": "C", "icon": "images/UM-5.png", "team_comp_advice": "Early Campaign", "positioning_advice": "Frontline melee, best used against single targets.", "description": "Lower priority, outclassed by other melee options"},
+        {"id": "UM-6", "name": "Cato Sicarius", "status": "Locked", "rank": "-", "level": "- / -", "abilities": "- / -", "priority": "N/A", "icon": "images/UM-6.png", "team_comp_advice": "N/A", "positioning_advice": "N/A", "description": ""}
+      ]
+    },
+    {
+      "name": "ADEPTA SORORITAS",
+      "characters": [
+        {"id": "AS-1", "name": "Morvenn Vahl", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "S", "icon": "images/AS-1.png", "team_comp_advice": "Arena, Guild Raids, Elite Campaigns", "positioning_advice": "Mid-line support, keep her in range of allies for buffs.", "description": "Top-tier, meta-defining, high priority"},
+        {"id": "AS-2", "name": "Isabella", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "S", "icon": "images/AS-2.png", "team_comp_advice": "Arena, Guild Raids, Elite Campaigns", "positioning_advice": "Backline healer, protect at all costs. Position to heal multiple allies.", "description": "Top-tier healer, meta-defining, high priority"},
+        {"id": "AS-3", "name": "Celestine", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "S", "icon": "images/AS-3.png", "team_comp_advice": "Arena, Guild Raids, Elite Campaigns", "positioning_advice": "Aggressive frontline, can deep strike. Use her to disrupt enemy backlines.", "description": "Top-tier summoner/damage, meta-defining, high priority"},
+        {"id": "AS-4", "name": "Roswitha", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "A", "icon": "images/AS-4.png", "team_comp_advice": "Arena, Campaign", "positioning_advice": "Backline ranged DPS, focus fire on key targets.", "description": "Strong ranged support, good for specific teams"},
+        {"id": "AS-5", "name": "Arjac Rockfist", "status": "Unlocked", "rank": "Epic I (1★)", "level": "29 / 35", "abilities": "16 / 18", "priority": "C", "icon": "images/AS-5.png", "team_comp_advice": "N/A", "positioning_advice": "N/A", "description": "Needs rework, lower priority"},
+        {"id": "AS-6", "name": "Exorcist", "status": "Locked", "rank": "-", "level": "- / -", "abilities": "- / -", "priority": "N/A", "icon": "images/AS-6.png", "team_comp_advice": "N/A", "positioning_advice": "N/A", "description": ""}
+      ]
+    },
+    {
+      "name": "BLACK LEGION",
+      "characters": [
+        {"id": "BL-1", "name": "Abaddon The Despoiler", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "C", "icon": "images/BL-1.png", "team_comp_advice": "N/A", "positioning_advice": "N/A", "description": "Needs rework, lower priority despite lore"},
+        {"id": "BL-2", "name": "Archimatos", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "A", "icon": "images/BL-2.png", "team_comp_advice": "Guild Raids (Summon-heavy), Campaign", "positioning_advice": "Mid-line support, position to maximize summon impact.", "description": "Strong summoner, good for Guild Raids and general utility"},
+        {"id": "BL-3", "name": "Haarken Worldclaimer", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "A", "icon": "images/BL-3.png", "team_comp_advice": "Arena, Campaign", "positioning_advice": "Aggressive melee, use his deep strike to target key enemies.", "description": "Strong melee, good for burst damage"},
+        {"id": "BL-4", "name": "Rotbone", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "A", "icon": "images/BL-4.png", "team_comp_advice": "Arena, Guild Raids, Elite Campaigns", "positioning_advice": "Backline healer/support, keep him safe.", "description": "Excellent healer/support, high utility"},
+        {"id": "BL-5", "name": "Angrax", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "A", "icon": "images/BL-5.png", "team_comp_advice": "Arena (vs. Summons), Campaign", "positioning_advice": "Frontline tank, can hold a choke point.", "description": "Strong melee, good for specific teams"},
+        {"id": "BL-6", "name": "Toth", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "B", "icon": "images/BL-6.png", "team_comp_advice": "N/A", "positioning_advice": "N/A", "description": "Decent, but other Chaos options are higher priority"}
+      ]
+    },
+    {
+      "name": "ADEPTUS MECHANICUS",
+      "characters": [
+        {"id": "AM-1", "name": "Exitor-Rho", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "S", "icon": "images/AM-1.png", "team_comp_advice": "Mechanical Raid Team, Elite Campaigns", "positioning_advice": "Mid-line DPS, protect him to maximize damage output.", "description": "Core of Mechanical Raid Team, high priority"},
+        {"id": "AM-2", "name": "Actus", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "A", "icon": "images/AM-2.png", "team_comp_advice": "Mechanical Raid Team", "positioning_advice": "Mid-line support, position to buff key allies.", "description": "Key summoner for Mechanical Raid Team"},
+        {"id": "AM-3", "name": "Tan Gi'Da", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "A", "icon": "images/AM-3.png", "team_comp_advice": "Mechanical Raid Team", "positioning_advice": "Mid-line support, position to buff key allies.", "description": "Key summoner for Mechanical Raid Team"},
+        {"id": "AM-4", "name": "Thaddeus Noble", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "S", "icon": "images/AM-4.png", "team_comp_advice": "Arena (vs. Overwatch), Guild Raids, Elite Campaigns", "positioning_advice": "Mid-line DPS, use his active to disable key threats.", "description": "Top-tier anti-overwatch, meta-defining, high priority"},
+        {"id": "AM-5", "name": "Makhotep", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "B", "icon": "images/NE-2.png", "team_comp_advice": "N/A", "positioning_advice": "N/A", "description": "Good summoner, but Mechanical team is more specialized"},
+        {"id": "AM-6", "name": "Anuphet", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "B", "icon": "images/NE-1.png", "team_comp_advice": "N/A", "positioning_advice": "N/A", "description": "Good summoner, but Mechanical team is more specialized"}
+      ]
+    },
+    {
+      "name": "NECRONS",
+      "characters": [
+        {"id": "NE-1", "name": "Anuphet", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "S", "icon": "images/NE-1.png", "team_comp_advice": "Necron Guild Raids, Elite Campaigns", "positioning_advice": "Mid-line support, position to maximize his aura buffs.", "description": "Core of Necron team, high priority"},
+        {"id": "NE-2", "name": "Makhotep", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "A", "icon": "images/NE-2.png", "team_comp_advice": "Necron Guild Raids, Campaign", "positioning_advice": "Mid-line summoner, use his summons to tank or apply pressure.", "description": "Strong summoner, good for Necron team"},
+        {"id": "NE-3", "name": "Imospekh", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "A", "icon": "images/NE-3.png", "team_comp_advice": "Necron Guild Raids, Campaign", "positioning_advice": "Frontline tank, can absorb a lot of damage.", "description": "Durable tank, good for Necron team"},
+        {"id": "NE-4", "name": "Xylos", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "B", "icon": "images/NE-4.png", "team_comp_advice": "N/A", "positioning_advice": "N/A", "description": "Decent ranged, but other Necron options are higher priority"},
+        {"id": "NE-5", "name": "Szarekh", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "S", "icon": "images/NE-5.jpg", "team_comp_advice": "Necron Guild Raids (Boss), Elite Campaigns", "positioning_advice": "Backline DPS, keep him safe to maximize his damage output.", "description": "Legendary boss, powerful ranged DPS"}
+      ]
+    },
+    {
+      "name": "DEATH GUARD",
+      "characters": [
+        {"id": "DG-1", "name": "Typhus", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "A", "icon": "images/DG-1.png", "team_comp_advice": "Death Guard Guild Raids, Elite Campaigns", "positioning_advice": "Frontline tank/DPS, can spread debuffs.", "description": "Strong tank/DPS, good for Death Guard team"},
+        {"id": "DG-2", "name": "Mortarion", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "S", "icon": "images/DG-2.png", "team_comp_advice": "Death Guard Guild Raids (Boss), Elite Campaigns", "positioning_advice": "Aggressive frontline, can deep strike. Use him to disrupt enemy formations.", "description": "Legendary boss, powerful melee DPS"},
+        {"id": "DG-3", "name": "Pestillian", "status": "Unlocked", "rank": "Gold I (5★)", "level": "50 / 50", "abilities": "35 / 35", "priority": "B", "icon": "images/DG-3.png", "team_comp_advice": "N/A", "positioning_advice": "N/A", "description": "Decent support, but other Death Guard options are higher priority"},
+        {"id": "DG-4", "name": "Corrodius", "status": "Locked", "rank": "-", "level": "- / -", "abilities": "- / -", "priority": "N/A", "icon": "images/DG-4.png", "team_comp_advice": "N/A", "positioning_advice": "N/A", "description": ""},
+        {"id": "DG-5", "name": "Volk", "status": "Locked", "rank": "-", "level": "- / -", "abilities": "- / -", "priority": "N/A", "icon": "images/DG-5.png", "team_comp_advice": "N/A", "positioning_advice": "N/A", "description": ""},
+        {"id": "DG-6", "name": "Plagueburst Crawler", "status": "Locked", "rank": "-", "level": "- / -", "abilities": "- / -", "priority": "N/A", "icon": "images/DG-6.png", "team_comp_advice": "N/A", "positioning_advice": "N/A", "description": ""}
+      ]
+    }
+  ]
+}
+
